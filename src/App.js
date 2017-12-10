@@ -10,6 +10,8 @@ class App extends Component {
       <div className="App">
         <Reddit subreddit="nba" />
         <Reddit subreddit="europe" />
+        <Reddit subreddit="ireland" />
+        <Reddit subreddit="programming" />
       </div>
     );
   }
